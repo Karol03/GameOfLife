@@ -2,11 +2,28 @@
 GameOfLife
 
 <h2>Controls</h2>
-Key   Action</br>
-Space stop/start time</br>
-  N   tnext structure</br>
-  P   tprevious structure</br>
-  C   tclean area</br>
+<table>
+  <tr>
+    <th>Key</th>
+    <th>Action</th>
+  </tr>
+  <tr>
+    <th>Space</th>
+    <th>stop/start time</th>
+  </tr>
+  <tr>
+    <th>N</th>
+    <th>select next structure</th>
+  </tr>
+  <tr>
+    <th>P</th>
+    <th>select previous structure</th>
+  </tr>
+  <tr>
+    <th>C</th>
+    <th>clean area</th>
+  </tr>
+</table>
 Press the left mouse button to insert structure on area</br>
 </br>
 <h2>Available structures</h2>
